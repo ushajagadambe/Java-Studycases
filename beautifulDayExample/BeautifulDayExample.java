@@ -1,5 +1,9 @@
 package beautifulDayExample;
-
+/*Sample Input
+20 23 6
+Sample Output
+2
+*/
 import java.util.Scanner;
 
 public class BeautifulDayExample {
